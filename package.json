@@ -1,0 +1,19 @@
+{
+  "name": "witb",
+  "version": "0.1.0",
+  "description": "TBC lore podcast recorded in the style of kids in the boxcar sharing recent lore/rumors with one another.",
+  "main": "index.js",
+  "repository": "git@github.com:PricklyProductions/witb.git",
+  "author": "Christopher S. Case <chris.case@g33xnexus.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "saber"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.21.2",
+    "saber": "^0.11.7",
+    "sass": "^1.32.4",
+    "sass-loader": "^10.1.1"
+  }
+}

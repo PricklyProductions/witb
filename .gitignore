@@ -1,0 +1,13 @@
+.DS_Store
+
+# IntelliJ artifacts
+.idea
+
+# Build artifacts
+.cache
+.saber
+dist
+
+# Node artifacts
+node_modules
+
